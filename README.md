@@ -27,8 +27,9 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 </details>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=afprietoa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
+<p align = "center">
+   <img src ="https://github-profile-trophy.vercel.app/?username=afprietoa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
+</p>
 <h2> ➳ Publication</h2>
 <h4><a target="_blank" href="http://bienestar.bogota.unal.edu.co/pgp/Publicaciones/prima_exagia/prima_exagia_17.pdf">Show published essay </a>in Prima Exagia Magazine, <br> National University of Colombia, Bogotá</h4>
 
