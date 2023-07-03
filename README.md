@@ -27,6 +27,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 </details>
 
 ## 🏆 GitHub Trophies
+ <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+GitHub+trophies"> </summary>  
 <p align = "center">
    <img src ="https://github-profile-trophy.vercel.app/?username=afprietoa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
 </p>
