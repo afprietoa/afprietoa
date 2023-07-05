@@ -20,8 +20,8 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+GitHub+stats"> </summary>  
 <br>
 <p align = "center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=afprietoa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=afprietoa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=afprietoa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
+  <img src ="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=afprietoa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=afprietoa&theme=gotham&hide_border=false">
 </p>
 </details>
