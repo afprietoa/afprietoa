@@ -10,7 +10,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 
 
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/afelipeprietoa/) 
+<br/>
 
 
 # <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" width="60"> Tech Stack:
