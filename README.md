@@ -4,9 +4,24 @@
 
 
 <h2>About me</h2>
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="right" width="300"  alt="Computador">
 I am a Web Developer. I have a strong passion for acquiring knowledge about emerging technologies and harnessing their potential to either develop practical solutions or enhance existing software.
 
-- 💬 Ask me about **Technology and Personal Development**
+
+
+<br/><br/>
+
+| [![PORTFOLIO](https://img.shields.io/badge/Portfolio-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portfolio-1q3myrxug-afprietoa.vercel.app/)  | [![REPOSITORY](https://img.shields.io/badge/Repository-%23323330.svg?style=for-the-badge&logo=repository&logoColor=black&color=8000FF)](https://github.com/afprietoa?tab=repositories)                                                                                                  |                                                                                       
+|--------------|--------------------------------------------------------------------------------------------------------|
+
+
+
+
+
+
+
 
 
 
@@ -17,7 +32,8 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 
 # <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" width="60"> Tech Stack:
  ###
-
+ <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+Teach+Stack"> </summary>  
+<br>
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" width="72" alt="html logo" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" width="72" alt="css logo" />
