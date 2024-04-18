@@ -30,7 +30,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 
 # <img src="https://www.hugp.com/research/assets/img/gif/pc.gif" width="60"> Tech Stack:
  ###
- <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+Teach+Stack"> </summary>  
+ <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+teach+stack"> </summary>  
 <br>
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" width="72" alt="html logo" />
@@ -65,7 +65,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 ###
 # <img src="https://media.tenor.com/5IO4OoRLymUAAAAj/gofourward-webdesign.gif" width="50" > GitHub Stats:
 <details open>
- <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+GitHub+stats"> </summary>  
+ <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+gitHub+stats"> </summary>  
 <br>
 <p align = "center">
   <img src ="https://github-readme-stats-sigma-five.vercel.app/api?username=afprietoa&theme=gotham&hide_border=false&include_all_commits=false&count_private=false">
@@ -75,7 +75,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 </details>
 
 # <img src="https://media.tenor.com/vrokOtuxLSAAAAAj/gg-ctrnf.gif" width="50" > GitHub Trophies
- <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+GitHub+trophies"> </summary>  
+ <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=B2E840&width=500&lines=This+is+my+gitHub+trophies"> </summary>  
 <p align = "center">
    <img src ="https://github-profile-trophy.vercel.app/?username=afprietoa&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4">
 </p>
