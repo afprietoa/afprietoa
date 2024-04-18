@@ -31,7 +31,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="60" width="72" alt="React logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="60" width="72" alt="Sass logo"  />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrx/ngrx-original.svg" height="70" width="82" alt="ngrx logo" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="70" width="82" alt="redux logo" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" height="60" width="72" alt="redux logo" />
  <br/><br/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="60" width="72" alt="sharp logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="60" width="72" alt="dotnet logo" />
