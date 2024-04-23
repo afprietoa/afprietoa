@@ -13,7 +13,7 @@ I am a Web Developer. I have a strong passion for acquiring knowledge about emer
 
 <br/><br/>
 
-| [![PORTFOLIO](https://img.shields.io/badge/Portfolio-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portfolio-pfug-fab70sr8z-afprietoas-projects.vercel.app/)    | [![REPOSITORY](https://img.shields.io/badge/Repository-%23323330.svg?style=for-the-badge&logo=repository&logoColor=black&color=8000FF)](https://github.com/afprietoa?tab=repositories)                                                                                                  | [![LINKEDIN](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=repository&logoColor=black&color=3f51b5)](https://www.linkedin.com/in/afelipeprietoa/)   | 
+| [![PORTFOLIO](https://img.shields.io/badge/Portfolio-%23323330.svg?style=for-the-badge&logo=perfil&logoColor=black&color=FF0080)](https://portfolio-pfug-xllpn9z8j-afprietoas-projects.vercel.app/)    | [![REPOSITORY](https://img.shields.io/badge/Repository-%23323330.svg?style=for-the-badge&logo=repository&logoColor=black&color=8000FF)](https://github.com/afprietoa?tab=repositories)                                                                                                  | [![LINKEDIN](https://img.shields.io/badge/LinkedIn-%23323330.svg?style=for-the-badge&logo=repository&logoColor=black&color=3f51b5)](https://www.linkedin.com/in/afelipeprietoa/)   | 
 |--------------|--------------------------------------------------------------------------------------------------------|--------------|
 
 
